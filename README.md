@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schmouni242
 - 👀 I’m interested in cyber security and incident response, threat hunting and forensics
 - 🌱 I’m currently learning everyting and all day long
-- 💞️ I’m looking to collaborate on everywhere to help the community to improve and make our world more safe and secure.
+- 💞️ I’m looking to collaborate on everywhere to help the community to improve and make our world a better place.
 - 📫 How to reach me s.krausilein242@gmail.com
 
 <!---
